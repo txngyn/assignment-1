@@ -1,4 +1,3 @@
-# Code Refactor Starter Code
 # Module 1 Challenge - Horiseon Website Code Refactor
 
 ## Description
@@ -21,5 +20,5 @@ For this challenge, I was tasked to refactor the codebase for Horiseon's website
 
 ## Website
 
-https://verouge.github.io/Horiseon-M1C/
+https://txngyn.github.io/assignment-1/
 ![screenshot](./assets/images/screenshot-horiseon.jpg)
