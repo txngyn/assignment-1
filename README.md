@@ -10,7 +10,7 @@ For this challenge, I was tasked to refactor the codebase for Horiseon's website
 - Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 - Application's CSS file is properly commented.
 
-## Outcomes
+## Changes
 
 - Fixed all links
 - Consolidated all CSS selectors
